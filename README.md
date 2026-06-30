@@ -17,6 +17,7 @@ Analyze sales data using Python and pandas.
 - Load the data
 - Analyze it using pandas
 - Answer common questions about the data
+- Add new columns for easier analysis
 
 ## Next Steps
 
